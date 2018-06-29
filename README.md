@@ -2,7 +2,7 @@
 
 Small application that shows the latitude, longitude, accuracy of location, and timestamp of when and where your current picture was taken.
 
-Built with HTML, CSS, JavaScript, Cordova Camera API, and Google Maps API.
+Built with HTML, CSS, Java, Cordova Camera API, and Google Maps API.
 
 Run the build with Android or Browser.
 
